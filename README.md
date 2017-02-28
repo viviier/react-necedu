@@ -8,21 +8,23 @@
 
 ### 项目结构
 
-> │       ├── Header.js
-> │       ├── nav
-> │       │   ├── Nav.js
-> │       │   └── styles.less
-> │       ├── slider
-> │       │   ├── Slider.js
-> │       │   └── styles.less
-> │       └── tips
-> │           ├── Tips.js
-> │           └── styles.less
-> ├── index.js
-> ├── styles.less
-> └── utils
->     ├── fetch.js
->     └── localstorage.js
+```javascript
+│       ├── Header.js
+│       ├── nav
+│       │   ├── Nav.js
+│       │   └── styles.less
+│       ├── slider
+│       │   ├── Slider.js
+│       │   └── styles.less
+│       └── tips
+│           ├── Tips.js
+│           └── styles.less
+├── index.js
+├── styles.less
+└── utils
+    ├── fetch.js
+    └── localstorage.js
+```
 	
 ### 技术栈
 
