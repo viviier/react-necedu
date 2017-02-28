@@ -9,21 +9,58 @@
 ### 项目结构
 
 ```javascript
-│       ├── Header.js
-│       ├── nav
-│       │   ├── Nav.js
-│       │   └── styles.less
-│       ├── slider
-│       │   ├── Slider.js
-│       │   └── styles.less
-│       └── tips
-│           ├── Tips.js
-│           └── styles.less
+├── assets
+│   └── images
+│       ├── aboutImg.jpg
+│       ├── banner1.jpg
+│       ├── banner2.jpg
+│       ├── banner3.jpg
+│       ├── calss-info.jpg
+│       ├── cloud-classroom.png
+│       ├── footer-logo.png
+│       ├── logo.png
+│       ├── open-class.png
+│       └── university-mooc.png
+├── components
+│   ├── Content
+│   │   ├── Content.js
+│   │   ├── about
+│   │   │   ├── About.js
+│   │   │   └── styles.less
+│   │   ├── main
+│   │   │   ├── InteractiveCards
+│   │   │   │   ├── InteractiveCards.js
+│   │   │   │   └── styles.less
+│   │   │   ├── Main.js
+│   │   │   ├── sidebarCards
+│   │   │   │   ├── SidebarCards.js
+│   │   │   │   └── styles.less
+│   │   │   └── styles.less
+│   │   └── viewImg
+│   │       ├── ViewImg.js
+│   │       └── styles.less
+│   ├── Footer
+│   │   ├── Footer.js
+│   │   └── container
+│   │       ├── Contianer.js
+│   │       └── styles.less
+│   └── Header
+│       ├── Header.js
+│       ├── nav
+│       │   ├── Nav.js
+│       │   └── styles.less
+│       ├── slider
+│       │   ├── Slider.js
+│       │   └── styles.less
+│       └── tips
+│           ├── Tips.js
+│           └── styles.less
 ├── index.js
 ├── styles.less
 └── utils
     ├── fetch.js
     └── localstorage.js
+
 ```
 	
 ### 技术栈
