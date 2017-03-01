@@ -4,7 +4,7 @@
 基于antd，react，less重构的 [necedupage](https://github.com/viviier/necedupage)
 
 ### 项目截图
-![necedu](http://okuesjok0.bkt.clouddn.com/necedu.gif)
+![necedu](http://okuesjok0.bkt.clouddn.com/reacs.gif)
 
 ### 项目结构
 

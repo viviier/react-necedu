@@ -9,6 +9,7 @@ export default class Slider extends Component{
         let {data: {list}} = this.props 
         let config = {
             autoplaySpeed: 5000,
+            effect: 'fade',            
             autoplay: true,
             pauseOnHover: true,
         }

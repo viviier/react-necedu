@@ -43,7 +43,7 @@ export default class Header extends Component {
             <div>
                 <Tips data={data.tips}/>
                 <Nav data={data.nav}/>
-                <Slider data={data.slider} />
+                <Slider data={data.slider}/>
             </div>
         )
     }
